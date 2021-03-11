@@ -14,21 +14,21 @@ public class Ejercicio1 {
 		// Variables
 		int edad;
 		
-		//Cambio del alumno 2 (Diego Mancera RodrÌguez)
+		//Cambio del alumno 2 (Diego Mancera Rodr√≠guez)
 		
-		//Cambio del alumno 1 (Nombre y Apellidos)
+		//Cambio del alumno 1 (Nombre y Apellidoss)
 		
 		//Inicio
-		System.out.println("Introduce la edad, m·ximo " + EDAD_MAXIMA);
+		System.out.println("Introduce la edad, m√°ximo " + EDAD_MAXIMA);
 		edad = Integer.parseInt(teclado.nextLine()); // leer numero
 		
 		
 		if (edad < 0 || edad >= EDAD_MAXIMA){
-			System.out.println("Edad incorrecta, no est· en el rango indicado");
+			System.out.println("Edad incorrecta, no est√° en el rango indicado");
 		}
 		else{
 			if (edad <= LIMITE_NINNO){
-				System.out.println("Es un niÒo");
+				System.out.println("Es un ni√±o");
 			}
 			else{
 				if (edad <= LIMITE_ADOLESCENTE){
