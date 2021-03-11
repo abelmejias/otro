@@ -13,7 +13,7 @@ public class Ejercicio1 {
 	public static void main(String[] args) {
 		// Variables
 		int edad;
-		
+		//Cambio del alumno 2 (Diego Mancera Rodríguez) aaaaaaaaa
 		//Inicio
 		System.out.println("Introduce la edad, máximo " + EDAD_MAXIMA);
 		edad = Integer.parseInt(teclado.nextLine()); // leer numero
