@@ -16,7 +16,7 @@ public class Ejercicio1 {
 		
 		//Cambio del alumno 2 (Diego Mancera Rodríguez)
 		
-		//Cambio del alumno 1 (Nombre y Apellidos)
+		//Cambio del alumno 1 (abel y Apellidos)
 		
 		//Inicio
 		System.out.println("Introduce la edad, máximo " + EDAD_MAXIMA);
